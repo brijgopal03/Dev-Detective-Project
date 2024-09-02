@@ -151,7 +151,7 @@ function init() {
 
   darkMode = false;
 
-// const prefersDarkMode = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+const prefersDarkMode = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
 
   const value = localStorage.getItem("dark-mode");
 
@@ -161,7 +161,7 @@ function init() {
     lightModeProperties();
   }
   else if(value == "true") {
-    console.log("truer k andar");
+    console.log("true k andar");
     darkModeProperties();
   }
   else if(value == "false") {
