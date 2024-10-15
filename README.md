@@ -41,3 +41,8 @@ More about the GitHub API can be found [here](https://docs.github.com/en/rest).
 
 ![image](https://github.com/user-attachments/assets/70e12908-3b14-49fe-8328-9747ccbaee35)
 
+![image](https://github.com/user-attachments/assets/0d898d66-cabb-4c4b-aff9-9b7a489dfd47)
+
+## License
+
+This project is licensed under me - see the [Brijgopal](https://www.linkedin.com/in/brijgopal-dalmia-36a508224/)  for details.
